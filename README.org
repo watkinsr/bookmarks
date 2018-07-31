@@ -1,0 +1,2 @@
+* Export of useful bookmarks
+- Some useful tooling like a parser to break this into nice links would be very useful
